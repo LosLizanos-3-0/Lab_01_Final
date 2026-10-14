@@ -13,7 +13,7 @@
 				$host = $_SERVER['HTTP_HOST'];
 
 				// Project subdirectory
-				$appFolder = '/LAB_01';
+				$appFolder = '/Lab_01_Final';
 
 				// Relative address
 				define('urlRoot', $protocol . $host . $appFolder);
